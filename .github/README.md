@@ -30,7 +30,7 @@ This layout is inspired by the [Johnny Decimal system].
 - **01 Inbox** → Quick-capture notes and ideas
 - **02 Rules** → Core rules and house rules 
 - **20 ■ Campaign** → Big-picture campaign notes
-- **21 Codex** → Encyclopedia of terms and concepts 
+- **21 Codex** → Campaign details, handouts, & guides
 - **22 Webs** → Relationship and connection maps
 - **23 Fronts** → Threats, countdowns, and pressures
 - **24 Sessions** → Session logs and recaps 
