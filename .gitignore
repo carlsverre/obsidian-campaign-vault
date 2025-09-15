@@ -4,6 +4,9 @@
 !*/*.base
 !*/.gitkeep
 
+!.github/
+!.github/*
+
 !00 ■ System/00.01 Templates/
 !00 ■ System/00.01 Templates/*
 
