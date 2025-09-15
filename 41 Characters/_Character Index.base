@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.folder == this.file.folder
+    - file.ext != "base"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - appearance
+      - drive
+      - descriptor
+      - type
+      - focus
+    columnSize:
+      note.appearance: 243
+      note.drive: 186

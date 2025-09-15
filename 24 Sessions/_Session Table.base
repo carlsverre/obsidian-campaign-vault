@@ -1,0 +1,37 @@
+filters:
+  and:
+    - file.ext != "base"
+formulas:
+  start: if(note["first session"], link(note["first session"].toString()))
+  end: if(note["last session"], link(note["last session"].toString()))
+views:
+  - type: table
+    name: Fronts
+    filters:
+      and:
+        - file.folder == "23 Fronts"
+        - or:
+            - note["last session"].isEmpty()
+            - note["last session"] >= date(this.file.name)
+            - and:
+                - note["first session"].isEmpty()
+                - note["first session"] <= date(this.file.name)
+    order:
+      - file.name
+      - formula.start
+      - formula.end
+    sort:
+      - property: formula.start
+        direction: DESC
+  - type: table
+    name: Characters
+    filters:
+      and:
+        - file.folder == "41 Characters"
+        - this.characters.contains(file)
+    order:
+      - file.name
+      - appearance
+      - drive
+    columnSize:
+      note.appearance: 178

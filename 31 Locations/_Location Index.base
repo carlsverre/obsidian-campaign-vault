@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.folder == this.file.folder
+    - file.ext != "base"
+formulas:
+  Coordinates: ""
+views:
+  - type: table
+    name: Table
+    order:
+      - region
+      - file.name
+      - map
+    sort:
+      - property: region
+        direction: ASC
+      - property: file.name
+        direction: DESC

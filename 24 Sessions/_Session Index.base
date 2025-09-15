@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.folder == this.file.folder
+    - file.ext != "base"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - characters
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize: {}

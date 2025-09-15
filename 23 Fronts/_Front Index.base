@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.folder == this.file.folder
+    - file.ext != "base"
+views:
+  - type: table
+    name: All Fronts
+    order:
+      - file.name
+      - first session
+      - last session
+    columnSize: {}

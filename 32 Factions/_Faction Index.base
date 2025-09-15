@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.folder == this.file.folder
+    - file.ext != "base"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - tier
+      - drive
+    sort: []

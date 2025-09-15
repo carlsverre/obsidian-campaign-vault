@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.folder == this.file.folder
+    - file.ext != "base"
+views:
+  - type: table
+    name: Regions
+    filters:
+      and:
+        - note.region == this.file.name
+    order:
+      - file.name
+      - map
+    columnSize: {}
