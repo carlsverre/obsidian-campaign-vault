@@ -28,7 +28,7 @@ This layout is inspired by the [Johnny Decimal system].
 
 - **00 ■ System** → Templates and supporting files
 - **01 Inbox** → Quick-capture notes and ideas
-- **02 Rules** → Core rules and house rules 
+- **02 Reference** → Sourcebooks, settings, rules
 - **20 ■ Campaign** → Big-picture campaign notes
 - **21 Codex** → Campaign details, handouts, & guides
 - **22 Webs** → Relationship and connection maps
@@ -58,8 +58,8 @@ Header for vault infrastructure.
 ### 01 Inbox  
 A catch-all for raw notes and ideas before sorting. 
 
-### 02 Rules  
-System rules, house rules, and mechanical tweaks. 
+### 02 Refrence
+System rules, house rules, settings, sourcebooks, and adventures.
 
 ### 20 ■ Campaign  
 Header for campaign-level material.
