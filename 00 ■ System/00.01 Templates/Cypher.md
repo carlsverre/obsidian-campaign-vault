@@ -1,6 +1,5 @@
 ---
-card-forge-type: cypher
+card-type: cypher
 tags:
   - card
-card-forge-image: "[[cf-cypher.png]]"
 ---

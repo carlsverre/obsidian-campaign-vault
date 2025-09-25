@@ -3,5 +3,11 @@
   "newFileFolderPath": "01 Inbox",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "00 ■ System/00.02 Attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

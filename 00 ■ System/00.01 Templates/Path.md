@@ -1,8 +1,7 @@
 ---
-card-forge-type: path
+card-type: path
 tags:
   - card
-card-forge-image: "[[cf-path.png]]"
 ---
 - [f] **Core ability:**
 - [ ] **Ability**:

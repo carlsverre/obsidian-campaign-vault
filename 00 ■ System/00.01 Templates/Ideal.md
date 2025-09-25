@@ -1,8 +1,7 @@
 ---
-card-forge-type: ideal
+card-type: ideal
 tags:
   - card
-card-forge-image: "[[cf-ideal.png]]"
 ---
 *Narrative Hook.*
 
