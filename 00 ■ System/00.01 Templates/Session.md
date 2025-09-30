@@ -1,5 +1,7 @@
 ---
 characters:
+tags:
+  - session
 ---
 ### Characters
 ![[_Session Table.base#Characters]]

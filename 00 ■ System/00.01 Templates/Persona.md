@@ -1,4 +1,6 @@
 ---
 appearance:
 faction:
+tags:
+  - persona
 ---

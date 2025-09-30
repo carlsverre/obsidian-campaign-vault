@@ -1,6 +1,8 @@
 ---
 region:
 map:
+tags:
+  - location
 ---
 
 

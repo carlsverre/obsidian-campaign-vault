@@ -2,6 +2,7 @@
 card-type: ideal
 tags:
   - card
+  - ideal
 ---
 *Narrative Hook.*
 

@@ -1,4 +1,6 @@
 ---
 drive:
 appearance:
+tags:
+  - character
 ---

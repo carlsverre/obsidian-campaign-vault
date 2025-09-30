@@ -1,3 +1,5 @@
 ---
 appearance:
+tags:
+  - species
 ---

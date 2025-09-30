@@ -1,4 +1,6 @@
 ---
 tier:
 drive:
+tags:
+  - faction
 ---
