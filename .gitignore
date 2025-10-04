@@ -9,6 +9,7 @@
 
 !00 ■ System/00.01 Templates/
 !00 ■ System/00.01 Templates/*
+!00 ■ System/00.02 Attachments/*.base
 
 !.obsidian/app.json
 !.obsidian/appearance.json

@@ -1,7 +1,7 @@
 filters:
   and:
-    - file.folder == this.file.folder
     - file.ext != "base"
+    - file.folder == "31 Locations"
 formulas:
   Coordinates: ""
 views:

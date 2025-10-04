@@ -1,7 +1,7 @@
 filters:
   and:
-    - file.folder == this.file.folder
     - file.ext != "base"
+    - file.folder == "23 Fronts"
 views:
   - type: table
     name: All Fronts

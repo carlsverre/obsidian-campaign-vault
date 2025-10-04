@@ -1,0 +1,7 @@
+filters:
+  and:
+    - file.folder == "00 ■ System/00.02 Attachments"
+    - file.ext != "base"
+views:
+  - type: cards
+    name: Table

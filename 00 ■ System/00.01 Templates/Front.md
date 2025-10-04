@@ -1,5 +1,5 @@
 ---
-first session: [[{{date}}]]
+first session: "[[{{date}}]]"
 last session:
 tags:
   - front

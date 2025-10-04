@@ -28,7 +28,7 @@ views:
     filters:
       and:
         - file.folder == "41 Characters"
-        - this.characters.contains(file)
+        - this.characters.contains(file.basename)
     order:
       - file.name
       - appearance

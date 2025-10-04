@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder == this.file.folder
+    - file.folder == "24 Sessions"
     - file.ext != "base"
 views:
   - type: table

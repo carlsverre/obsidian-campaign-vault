@@ -1,7 +1,7 @@
 filters:
   and:
-    - file.folder == this.file.folder
     - file.ext != "base"
+    - file.folder == "42 NPCs"
 views:
   - type: table
     name: Table
