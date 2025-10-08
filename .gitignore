@@ -15,7 +15,6 @@
 !.obsidian/appearance.json
 !.obsidian/canvas.json
 !.obsidian/core-plugins.json
-!.obsidian/community-plugins.json
 !.obsidian/daily-notes.json
 !.obsidian/graph.json
 !.obsidian/hotkeys.json
@@ -23,6 +22,7 @@
 !.obsidian/templates.json
 !.obsidian/snippets
 !.obsidian/themes
+!.obsidian/fonts
 !.obsidian/plugins/*/data.json
 !.obsidian/plugins/*/main.js
 !.obsidian/plugins/*/manifest.json
