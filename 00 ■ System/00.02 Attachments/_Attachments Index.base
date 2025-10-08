@@ -4,4 +4,5 @@ filters:
     - file.ext != "base"
 views:
   - type: cards
-    name: Table
+    name: Cards
+    image: file.file

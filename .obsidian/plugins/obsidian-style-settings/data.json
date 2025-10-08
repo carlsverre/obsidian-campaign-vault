@@ -1,0 +1,17 @@
+{
+  "underwater-theme@@underwater-colors-light": "rose-pine-dawn",
+  "underwater-theme@@no-activeline": true,
+  "underwater-theme@@underwater-colors-dark": "biscuit-dark",
+  "underwater-theme@@callout": "callout-solid",
+  "underwater-theme@@table": "table-minimal",
+  "underwater-theme@@checkbox": "normal",
+  "underwater-theme@@vault-icon": "vault-book",
+  "underwater-theme@@links-styling": "normal",
+  "underwater-theme@@no-center": true,
+  "underwater-theme@@no-animation": true,
+  "underwater-theme@@no-justify": true,
+  "underwater-theme@@no-pin": false,
+  "underwater-theme@@focus-mode": false,
+  "underwater-theme@@workspace-bg": false,
+  "underwater-theme@@headings-font": "\"\""
+}

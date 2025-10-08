@@ -6,6 +6,7 @@ views:
   - type: table
     name: Table
     order:
+      - player
       - file.name
       - appearance
       - drive

@@ -1,3 +1,9 @@
 {
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "Underwater",
+  "enabledCssSnippets": [
+    "custom"
+  ],
+  "showRibbon": false,
+  "baseFontSize": 17
 }

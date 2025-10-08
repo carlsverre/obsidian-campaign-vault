@@ -3,15 +3,17 @@ characters:
 tags:
   - session
 ---
-### Characters
+
+# Characters
+
 ![[_Session Table.base#Characters]]
 
-### Fronts
+# Fronts
+
 ![[_Session Table.base#Fronts]]
 
-### Scenes
+# Scenes
 
-### Strong Start
+# Strong Start
 
-### Notes
-- 
+# Notes

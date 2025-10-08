@@ -1,0 +1,26 @@
+.inline-title {
+  text-align: left;
+}
+
+.theme-light,
+.theme-dark {
+  --link-external-color: var(--rose);
+  --link-external-color-hover: rgba(var(--rose-rgb), 0.6);
+  --file-line-width: 60ch !important;
+}
+
+.markdown-preview-view p,
+.markdown-source-view.mod-cm6 .cm-line {
+  text-align: justify;
+  text-justify: inter-word;
+  text-wrap: pretty;
+  hyphens: auto;
+  hyphenate-limit-chars: 7;
+}
+
+/* fix punctionation showing up on next line issue */
+.markdown-source-view.mod-cm6
+  .cm-line:not(.HyperMD-codeblock)
+  img.cm-widgetBuffer {
+  display: none !important;
+}

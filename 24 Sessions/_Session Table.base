@@ -30,6 +30,7 @@ views:
         - file.folder == "41 Characters"
         - this.characters.contains(file.basename)
     order:
+      - player
       - file.name
       - appearance
       - drive
