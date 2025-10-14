@@ -1,5 +1,0 @@
----
-appearance:
-tags:
-  - species
----

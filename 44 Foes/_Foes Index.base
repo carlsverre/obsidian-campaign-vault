@@ -1,10 +1,12 @@
 filters:
   and:
     - file.ext != "base"
-    - file.folder == "34 Species"
+    - file.folder == "44 Foes"
 views:
   - type: table
     name: Table
     order:
       - file.name
       - appearance
+    columnSize:
+      note.tags: 148

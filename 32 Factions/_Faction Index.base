@@ -7,6 +7,8 @@ views:
     name: Table
     order:
       - file.name
-      - tier
+      - clock
       - drive
     sort: []
+    columnSize:
+      note.clock: 332

@@ -1,6 +1,5 @@
 ---
 appearance:
-faction:
 tags:
-  - persona
+  - foe
 ---

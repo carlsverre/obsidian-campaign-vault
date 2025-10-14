@@ -40,5 +40,19 @@
       "key": "H"
     }
   ],
-  "editor:open-search-replace": []
+  "editor:open-search-replace": [],
+  "editor:follow-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Enter"
+    }
+  ]
 }

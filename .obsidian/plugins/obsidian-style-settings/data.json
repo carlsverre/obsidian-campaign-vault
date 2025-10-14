@@ -6,7 +6,7 @@
   "underwater-theme@@table": "table-minimal",
   "underwater-theme@@checkbox": "normal",
   "underwater-theme@@vault-icon": "vault-book",
-  "underwater-theme@@links-styling": "normal",
+  "underwater-theme@@links-styling": "no-links",
   "underwater-theme@@no-center": true,
   "underwater-theme@@no-animation": true,
   "underwater-theme@@no-justify": true,

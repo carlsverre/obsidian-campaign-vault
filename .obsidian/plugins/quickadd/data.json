@@ -181,41 +181,11 @@
       "setFileExistsBehavior": false
     },
     {
-      "id": "0dcdcbdd-db0a-4151-9b4c-4df222d99989",
-      "name": "Persona",
-      "type": "Template",
-      "command": true,
-      "templatePath": "00 ■ System/00.01 Templates/Persona.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "35 Persona"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFile": true,
-      "fileOpening": {
-        "location": "reuse",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
       "id": "42daeb67-6b9a-48aa-9706-c745551b7a0b",
-      "name": "Species",
+      "name": "Foe",
       "type": "Template",
       "command": true,
-      "templatePath": "00 ■ System/00.01 Templates/Species.md",
+      "templatePath": "00 ■ System/00.01 Templates/Foe.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -223,127 +193,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "34 Species"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFile": true,
-      "fileOpening": {
-        "location": "reuse",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "d027e9f9-6823-428d-9f17-8cf04bd84a8b",
-      "name": "Ideal",
-      "type": "Template",
-      "command": true,
-      "templatePath": "00 ■ System/00.01 Templates/Ideal.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "21 Codex/Ideals"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFile": true,
-      "fileOpening": {
-        "location": "reuse",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "1d4e555d-955d-49f8-b343-23557ba3ac32",
-      "name": "Path",
-      "type": "Template",
-      "command": true,
-      "templatePath": "00 ■ System/00.01 Templates/Ideal.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "21 Codex/Paths"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFile": true,
-      "fileOpening": {
-        "location": "reuse",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "cdb6e90a-a0fe-425c-a4e0-285ecb5c3c36",
-      "name": "Cypher",
-      "type": "Template",
-      "command": true,
-      "templatePath": "00 ■ System/00.01 Templates/Cypher.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "21 Codex/Cyphers"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFile": true,
-      "fileOpening": {
-        "location": "reuse",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "bfc4e0d2-43e3-43eb-aa22-9a849945bc89",
-      "name": "Artifact",
-      "type": "Template",
-      "command": true,
-      "templatePath": "00 ■ System/00.01 Templates/Artifact.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "21 Codex/Artifacts"
+          "44 Foes"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
