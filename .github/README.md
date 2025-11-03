@@ -89,3 +89,6 @@ Header for the people and creatures in your world
 [Obsidian]: https://obsidian.md/
 [GitHub Desktop]: https://github.com/apps/desktop
 [Johnny Decimal System]: https://johnnydecimal.com/
+
+# License
+This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
