@@ -10,12 +10,12 @@
 }
 
 .markdown-preview-view p,
-.markdown-source-view.mod-cm6 .cm-line {
+.markdown-source-view.mod-cm6 .cm-line:not(.HyperMD-list-line) {
   text-align: justify;
-  text-justify: inter-word;
   text-wrap: pretty;
   hyphens: auto;
-  hyphenate-limit-chars: 7;
+  hyphenate-limit-chars: 4 3 2;
+  white-space: normal;
 }
 
 /* fix punctionation showing up on next line issue */

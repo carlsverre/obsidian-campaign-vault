@@ -5,5 +5,6 @@
     "custom"
   ],
   "showRibbon": false,
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "translucency": false
 }
